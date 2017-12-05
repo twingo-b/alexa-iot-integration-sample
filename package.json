@@ -1,0 +1,24 @@
+{
+  "name": "alexa-iot-integration-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/twingo-b/alexa-iot-integration-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twingo-b/alexa-iot-integration-sample/issues"
+  },
+  "homepage": "https://github.com/twingo-b/alexa-iot-integration-sample#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.22",
+    "aws-sdk": "^2.162.0",
+    "aws-xray-sdk": "^1.1.6"
+  }
+}
